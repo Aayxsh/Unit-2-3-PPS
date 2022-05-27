@@ -11,7 +11,7 @@ print ("Equilateral Triangle"):
 else if(arr[0]--arr[1]||arr[1]--arr[2]||arr[0]=-arr[2]){
 print ("Isosceles Triangle"):
 )
-elsef
+else
 printf ("Scalene Triangle");
 )
 return 0;}
